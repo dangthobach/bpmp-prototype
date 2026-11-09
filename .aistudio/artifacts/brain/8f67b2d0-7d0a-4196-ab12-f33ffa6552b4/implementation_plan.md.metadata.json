@@ -1,0 +1,6 @@
+{
+  "summary": "Detailed implementation plan for enhanced intuitive, visual RBAC in the BPMP Platform.\nCovers 3 dedicated visual tab views (Phân quyền theo Process, Phân quyền theo Element, Phân quyền theo Queue) with interactive Permission Matrix Grid toggle, slide-over configuration drawer with role search & dynamic expression filters, and granular permission actions (View, Execute/Claim, Reassign, Cancel).",
+  "updatedAt": "2026-11-03T10:44:12.951183663Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

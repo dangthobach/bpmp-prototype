@@ -1,0 +1,6 @@
+{
+  "name": "BPMP Platform - Enterprise BPM & Workflow",
+  "description": "Multi-Tenant BPMN 2.0 Workflow Management Platform with Modeler, Task Operation, Heatmap Optimization, Identity & RBAC, and Tasklist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
